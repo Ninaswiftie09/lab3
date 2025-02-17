@@ -1,0 +1,27 @@
+Escojan qué requerimientos quieren cumplir.
+
+(20 puntos) [Criterio subjetivo] Según qué tan interesante sea la historia.
+
+
+(20 puntos) Por que su repositorio de git esté ordenado. Su historia debe estar en un folder llamado lab3 y debe haber un archivo index.html en este folder. No puede haber otros archivos html en el primer nivel de esta carpeta.
+
+
+(2 puntos) Por cada archivo diferente que forme parte de su historia, para un máximo de 20 puntos
+
+
+(1 punto) Por cada link diferente que forme parte de su historia, para un máximo de 20 puntos. Los links deben tener paths relativos para ser válidos.
+
+
+(1 punto) Para un máximo de 10 puntos. Por cada commit diferente en su commit history en git que respete los lineamientos en este link.
+
+    Links to an external site.
+        Los mensajes de commit deben estar bien formados y estar escritos en inglés.
+        Deben ser commits relevantes, no triviales. Por ejemplo, traten de hacer un commit para cada página que vallan agregando a su historia.
+
+(10 puntos) Si todos los archivos están identados correctamente
+
+(5 puntos) por usar la tag de <article> y la tag de <aside> de manera semánticamente correcta
+
+(5 puntos) por usar la de <header> y<footer> de manera semánticamente correcta
+
+Tota: 110
